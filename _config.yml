@@ -1,7 +1,7 @@
 safe: false
 
 relative_source: .
-destination: .
+destination: dest
 
 title: Polish C++ Standards Committee
 email: griwes@griwes.info
