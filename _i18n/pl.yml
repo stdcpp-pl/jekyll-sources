@@ -1,6 +1,7 @@
 global:
     polish: polski
     english: English
+meta:
     title: Polski Komitet Standaryzacyjny C++
     description: >-
         Witajcie na stronie polskiego komitetu technicznego ds. języków programowania.

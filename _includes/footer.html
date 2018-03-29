@@ -3,7 +3,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">{% translate meta.title %}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -12,7 +12,7 @@
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ t global.title | escape }}
+              {% translate meta.title %}
             {%- endif -%}
             </li>
             {%- if site.email -%}
@@ -26,7 +26,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- t global.description | escape -}}</p>
+        <p>{%- translate meta.description -%}</p>
       </div>
     </div>
 
