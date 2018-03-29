@@ -5,10 +5,7 @@ destination: dest
 username: stdcpp-pl
 branch: master
 
-title: Polish C++ Standards Committee
-email: griwes@griwes.info
-description: >-
-    Welcome to the website of the Polish National Body at the C++ Standards Committee.
+title: C++ PL NB
 baseurl: ""
 url: "https://www.stdcpp.pl/"
 #twitter_username: jekyllrb

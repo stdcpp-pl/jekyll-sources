@@ -1,6 +1,9 @@
 global:
     polish: polski
     english: English
+    title: Polish C++ Standards Committee
+    description: >-
+        Welcome to the website of the Polish National Body at the C++ Standards Committee.
 pages:
     home: Home
     about: About
