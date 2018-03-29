@@ -2,6 +2,7 @@ safe: false
 
 relative_source: .
 destination: dest
+username: stdcpp-pl
 
 title: Polish C++ Standards Committee
 email: griwes@griwes.info
